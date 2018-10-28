@@ -2,3 +2,26 @@
 <script src="https://cdn.htmlgames.com/embed.js?game=IceCreamBar&amp;width=800&amp;height=480&amp;bgcolor=white"></script>
 </div>
 <a href="https://cdn.htmlgames.com/IceCreamBar/" target="_blank"><img src="https://cdn.htmlgames.com/IceCreamBar/img/icon/image-300x200.jpg"></a>
+<!-- HTML Codes by Quackit.com -->
+<!DOCTYPE html>
+<title>Text Example</title>
+<style>
+div.container {
+background-color: #ffffff;
+}
+div.container p {
+font-family: Arial;
+font-size: 14px;
+font-style: normal;
+font-weight: normal;
+text-decoration: none;
+text-transform: none;
+color: #000000;
+background-color: #ffffff;
+}
+</style>
+
+<div class="container">
+<p>Ice Cream Bar</p>
+<p></p>
+</div>
